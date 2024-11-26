@@ -7,8 +7,17 @@ let age=19
 let isLoggedIn=false
 
 
-//DATATYPES - 
+//DATATYPES - (primitive datatype)
+
 // number => range 2 to the power 53
 //bigint
 //string => ""
 //boolean => true/false
+//null => standalone value (empty)
+//undefined => value not assigned
+//symbol  => unique
+  
+//OBJECT
+//null is not primitive it is object
+console.log(typeof null);  //object
+console.log(typeof undefined); //datatype is undefined
