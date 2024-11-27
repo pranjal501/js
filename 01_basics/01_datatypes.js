@@ -22,3 +22,4 @@ let isLoggedIn=false
 console.log(typeof null);  //object
 console.log(typeof undefined); //datatype is undefined
 // buifewhuiiawerhfh
+// ewhuiriure
