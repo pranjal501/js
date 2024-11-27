@@ -21,4 +21,4 @@ let isLoggedIn=false
 //null is not primitive it is object
 console.log(typeof null);  //object
 console.log(typeof undefined); //datatype is undefined
-console.log(typeof undefined)
+// buifewhuiiawerhfh
